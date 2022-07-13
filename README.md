@@ -1,0 +1,2 @@
+# SKGitPodstawy
+Nauka podstaw GIT
